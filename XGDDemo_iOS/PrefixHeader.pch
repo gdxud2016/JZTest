@@ -1,0 +1,13 @@
+//
+//  PrefixHeader.pch
+//  XGDDemo
+//
+//  Created by xgd on 2022/4/1.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define FUNC_LOG NSLog(@"%s",__func__);
+
+#endif /* PrefixHeader_pch */
